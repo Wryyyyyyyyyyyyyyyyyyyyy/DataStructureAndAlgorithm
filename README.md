@@ -1,2 +1,2 @@
 # DataStructureAndAlgorithm
-数据结构语算法设计
+数据结构与算法设计
